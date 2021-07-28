@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944190991004",
+    "project_id": "almamari-f132d",
+    "storage_bucket": "almamari-f132d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944190991004:android:3e78d02aae6173ca0c9b59",
+        "android_client_info": {
+          "package_name": "com.example.almamari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944190991004-jggmgjbnlebv10je38feibevduomken3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwI_4MPJl_M2V93XIU18kcaQ2RJcKJK58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944190991004-jggmgjbnlebv10je38feibevduomken3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
